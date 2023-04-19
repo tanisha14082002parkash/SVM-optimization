@@ -73,12 +73,13 @@ Class: A, B, C, D, E, F, G, H, I, W, X, Y
 
 
 ## Convergence Graph
-![graph](https://user-images.githubusercontent.com/72306997/233000047-3bbc6cf2-8ec0-4276-8519-17da7da2fb25.png)
+![image](https://user-images.githubusercontent.com/79708114/233194903-88b6b3fc-0a74-445c-9ffd-5c2acf953d33.png)
+
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 
-The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
+The graph is made for the sample which has best accuracy. Sample 4 has the best accuracy of 0.76 having kernel = rbf, Nu = 1.37 and Epsilon = 7.89.
 
 ## Written By
 Name : Tanisha Parkash
