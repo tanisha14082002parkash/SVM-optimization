@@ -25,7 +25,7 @@ The prediction task consists in associating each pattern to one of the 12 copyis
 The data have has been normalized, by using the Z-normalization method, and divided in two data sets: a training set containing 10430 samples, and a test set  containing the 10437 samples.
 
 Class distribution (training set)
-A: 4286
+A: 4286   
 B: 5  
 C: 103 
 D: 352 
